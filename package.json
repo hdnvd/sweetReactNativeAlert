@@ -1,0 +1,49 @@
+{
+  "name": "sweet-react-native-alert",
+  "version": "0.0.1",
+  "description": "simple alert dialog builder for react native",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "keyword": [
+    "persian",
+    "jalaali",
+    "calendar",
+    "picker",
+    "date",
+    "react",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Hadi AmirNahavandi",
+    "email": "nahavandi.hadi@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "homepage": "https://github.com/hdnvd/sweetReactNativeAlert",
+  "bugs": {
+    "url": "https://github.com/hdnvd/sweetReactNativeAlert/issues"
+  },
+  "contributors": [
+    {
+      "name": "Hadi AmirNahavandi",
+      "email": "nahavandi.hadi@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdnvd/sweetReactNativeAlert"
+  }
+}
