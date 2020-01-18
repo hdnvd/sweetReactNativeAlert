@@ -35,6 +35,10 @@ class SweetAlert{
             {text:'خیر'}
         ]);
     }
+    static displayMultipleItemAlert(Title,Text,buttons)
+    {
+        Alert.alert(Title,Text,buttons);
+    }
 }
 
 export default SweetAlert;
